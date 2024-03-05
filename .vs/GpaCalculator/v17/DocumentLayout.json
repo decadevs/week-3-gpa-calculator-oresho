@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\Decagon\\GpaCalculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F350B208-437D-4812-883C-E92870614331}|GpaCalculator.Tests\\GpaCalculator.Tests.csproj|c:\\users\\hp\\desktop\\decagon\\gpacalculator\\gpacalculator.tests\\calculatorservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F350B208-437D-4812-883C-E92870614331}|GpaCalculator.Tests\\GpaCalculator.Tests.csproj|solutionrelative:gpacalculator.tests\\calculatorservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FD54162-F0C1-4AB1-930B-F5973A5939C6}|GpaCalculator\\GpaCalculator.csproj|c:\\users\\hp\\desktop\\decagon\\gpacalculator\\gpacalculator\\calculatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FD54162-F0C1-4AB1-930B-F5973A5939C6}|GpaCalculator\\GpaCalculator.csproj|solutionrelative:gpacalculator\\calculatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FD54162-F0C1-4AB1-930B-F5973A5939C6}|GpaCalculator\\GpaCalculator.csproj|c:\\users\\hp\\desktop\\decagon\\gpacalculator\\gpacalculator\\courseinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FD54162-F0C1-4AB1-930B-F5973A5939C6}|GpaCalculator\\GpaCalculator.csproj|solutionrelative:gpacalculator\\courseinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FD54162-F0C1-4AB1-930B-F5973A5939C6}|GpaCalculator\\GpaCalculator.csproj|c:\\users\\hp\\desktop\\decagon\\gpacalculator\\gpacalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FD54162-F0C1-4AB1-930B-F5973A5939C6}|GpaCalculator\\GpaCalculator.csproj|solutionrelative:gpacalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculatorServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\GpaCalculator\\GpaCalculator.Tests\\CalculatorServiceTests.cs",
+              "RelativeDocumentMoniker": "GpaCalculator.Tests\\CalculatorServiceTests.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\GpaCalculator\\GpaCalculator.Tests\\CalculatorServiceTests.cs",
+              "RelativeToolTip": "GpaCalculator.Tests\\CalculatorServiceTests.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAwDIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T12:03:53.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalculatorService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\GpaCalculator\\GpaCalculator\\CalculatorService.cs",
+              "RelativeDocumentMoniker": "GpaCalculator\\CalculatorService.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\GpaCalculator\\GpaCalculator\\CalculatorService.cs",
+              "RelativeToolTip": "GpaCalculator\\CalculatorService.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAQwHUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T12:13:53.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CourseInfo.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\GpaCalculator\\GpaCalculator\\CourseInfo.cs",
+              "RelativeDocumentMoniker": "GpaCalculator\\CourseInfo.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\GpaCalculator\\GpaCalculator\\CourseInfo.cs",
+              "RelativeToolTip": "GpaCalculator\\CourseInfo.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T12:16:28.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Decagon\\GpaCalculator\\GpaCalculator\\Program.cs",
+              "RelativeDocumentMoniker": "GpaCalculator\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Decagon\\GpaCalculator\\GpaCalculator\\Program.cs",
+              "RelativeToolTip": "GpaCalculator\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T12:03:56.826Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

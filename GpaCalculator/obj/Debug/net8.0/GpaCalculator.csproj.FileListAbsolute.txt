@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\Decagon\GpaCalculator\GpaCalculator\bin\Debug\net8.0\GpaCalculator.exe
+C:\Users\HP\Desktop\Decagon\GpaCalculator\GpaCalculator\bin\Debug\net8.0\GpaCalculator.deps.json
+C:\Users\HP\Desktop\Decagon\GpaCalculator\GpaCalculator\bin\Debug\net8.0\GpaCalculator.runtimeconfig.json
+C:\Users\HP\Desktop\Decagon\GpaCalculator\GpaCalculator\bin\Debug\net8.0\GpaCalculator.dll
+C:\Users\HP\Desktop\Decagon\GpaCalculator\GpaCalculator\bin\Debug\net8.0\GpaCalculator.pdb
+C:\Users\HP\Desktop\Decagon\GpaCalculator\GpaCalculator\obj\Debug\net8.0\GpaCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Decagon\GpaCalculator\GpaCalculator\obj\Debug\net8.0\GpaCalculator.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Decagon\GpaCalculator\GpaCalculator\obj\Debug\net8.0\GpaCalculator.AssemblyInfo.cs
+C:\Users\HP\Desktop\Decagon\GpaCalculator\GpaCalculator\obj\Debug\net8.0\GpaCalculator.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Decagon\GpaCalculator\GpaCalculator\obj\Debug\net8.0\GpaCalculator.dll
+C:\Users\HP\Desktop\Decagon\GpaCalculator\GpaCalculator\obj\Debug\net8.0\refint\GpaCalculator.dll
+C:\Users\HP\Desktop\Decagon\GpaCalculator\GpaCalculator\obj\Debug\net8.0\GpaCalculator.pdb
+C:\Users\HP\Desktop\Decagon\GpaCalculator\GpaCalculator\obj\Debug\net8.0\GpaCalculator.genruntimeconfig.cache
+C:\Users\HP\Desktop\Decagon\GpaCalculator\GpaCalculator\obj\Debug\net8.0\ref\GpaCalculator.dll
